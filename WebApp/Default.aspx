@@ -8,7 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>SGITECH n
+        <div>Welcome To SGITECH
         </div>
     </form>
 </body>
