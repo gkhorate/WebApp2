@@ -1,0 +1,7 @@
+I:\Delete Folder\FreeAPIDeleteSure\WebApp\WebApp\bin\WebApp.dll.config
+I:\Delete Folder\FreeAPIDeleteSure\WebApp\WebApp\bin\WebApp.dll
+I:\Delete Folder\FreeAPIDeleteSure\WebApp\WebApp\bin\WebApp.pdb
+I:\Delete Folder\FreeAPIDeleteSure\WebApp\WebApp\obj\Release\WebApp.csprojAssemblyReference.cache
+I:\Delete Folder\FreeAPIDeleteSure\WebApp\WebApp\obj\Release\WebApp.csproj.CoreCompileInputs.cache
+I:\Delete Folder\FreeAPIDeleteSure\WebApp\WebApp\obj\Release\WebApp.dll
+I:\Delete Folder\FreeAPIDeleteSure\WebApp\WebApp\obj\Release\WebApp.pdb
